@@ -1,0 +1,5 @@
+streamlit
+yt-dlp
+google-generativeai
+gTTS
+requests
