@@ -1,4 +1,4 @@
-#Salient Features of the Software:
+**Salient Features of the Software:**
 
 Content Intelligence: Analyzes video transcripts using Large Language Models to support rapid information absorption.
 
